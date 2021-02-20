@@ -58,7 +58,7 @@ triplos      {
  	}
 ```
 
-### [Relatório](https://github.com/chico2911/SeiRA/tree/main/Docs/Relatório_Grupo10_Projeto1_GCS.pdf)
+### [Relatório](https://github.com/chico2911/SeiRA/tree/master/Docs/Relatório_Grupo10_Projeto1_GCS.pdf)
 
 ## Development Team
 
