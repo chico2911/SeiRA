@@ -1,6 +1,6 @@
 # SeiRA
 ## Projeto Inserido na Unidade Curricular Gramáticas na Compreensão de Software 2020/2021
-### [Mestrado Integrado em Engenhária Informática na Universidade do Minho](https://miei.di.uminho.pt/)
+### [Mestrado Integrado em Engenharia Informática na Universidade do Minho](https://miei.di.uminho.pt/)
 
 O **SeiRA** é um projeto, proposto pelo docente [Pedro Rangel Henriques](http://algoritmi.uminho.pt/member-profile/pedro-manuel-rangel-santos-henriques/0000187/) para avaliação na cadeira mencionada. No âmbito do projeto CnE (Computação na Escola), pretende-se desenvolver uma DSL, que será designada SelRA, para apoio ao professor que lhe permita escolher um recurso de aprendizagem (RA) adequado a um dado aluno
 (Al) para ensino de um determinado conceito de programação (CPrg) de modo a tentar maximizar a eficácia do
